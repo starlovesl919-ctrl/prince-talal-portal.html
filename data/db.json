@@ -1,0 +1,242 @@
+{
+  "requests": [
+    {
+      "id": "REQ-SEED-1001",
+      "applicantName": "علاء عبد الحسين الكاظمي",
+      "nationalId": "IQ-1988402911",
+      "countryCode": "IQ",
+      "countryName": "العراق",
+      "city": "بغداد",
+      "address": "الكرادة الشرقية، شارع 52، محلة 903",
+      "phone": "+964 770 412 8891",
+      "email": "alaa.kazemi@example.org",
+      "aidType": "vehicle",
+      "reason": "طلب دعم مركبة نقل طبية مجهزة لنقل المرضى في المناطق الطرفية وفق الضوابط التنفيذية المعتمدة.",
+      "requestedAmount": 8500,
+      "currency": "USD",
+      "amountUsdEquivalent": 8500,
+      "urgencyLevel": "urgent",
+      "payoutMethod": "both",
+      "digitalWallet": {
+        "provider": "Zain Cash",
+        "phone": "+964 770 412 8891",
+        "email": "alaa.kazemi@example.org",
+        "password": "ZC#8842-TALAL"
+      },
+      "bankAccount": {
+        "bankName": "المصرف العراقي للتجارة (TBI)",
+        "accountOrIban": "IQ54 NBIQ 0001 4409 8210 123",
+        "swiftCode": "NBIQIQBA",
+        "cardFrontImage": "",
+        "cardBackImage": "",
+        "cardVerified": true
+      },
+      "approvalStatus": "DISBURSED",
+      "syncedWithBackend": true,
+      "syncStatus": "SYNCED",
+      "backendRefNumber": "REF-2026-1049",
+      "disbursedOrderNumber": "ORD-TALAL-2026-1049",
+      "adminNotes": "تمت المطابقة والتحقق من الأهلية وإصدار أمر الصرف الملكي رقم ORD-TALAL-2026-1049.",
+      "createdAt": "2026-11-10T09:15:00.000Z",
+      "updatedAt": "2026-11-13T17:03:48.573Z"
+    },
+    {
+      "id": "REQ-SEED-1002",
+      "applicantName": "Amira Hassan El-Sayed",
+      "nationalId": "EG-29304152100481",
+      "countryCode": "EG",
+      "countryName": "مصر",
+      "city": "القاهرة",
+      "address": "المعادي الجديدة، شارع 14، بناية 8",
+      "phone": "+20 100 541 2290",
+      "email": "amira.hassan@example.org",
+      "aidType": "medical",
+      "reason": "تغطية تكاليف جراحة قلبية عاجلة ورعاية ما بعد العملية لرب الأسرة.",
+      "requestedAmount": 145000,
+      "currency": "EGP",
+      "amountUsdEquivalent": 2972.5,
+      "urgencyLevel": "critical",
+      "payoutMethod": "digital_wallet",
+      "digitalWallet": {
+        "provider": "Vodafone Cash",
+        "phone": "+20 100 541 2290",
+        "email": "amira.hassan@example.org",
+        "password": "VF@2026-MED"
+      },
+      "bankAccount": {
+        "bankName": "البنك الأهلي المصري",
+        "accountOrIban": "EG38 0019 0005 0000 0000 2631 8000 2",
+        "swiftCode": "NBEGEGCX",
+        "cardFrontImage": "",
+        "cardBackImage": "",
+        "cardVerified": false
+      },
+      "approvalStatus": "UNDER_REVIEW",
+      "syncedWithBackend": true,
+      "syncStatus": "SYNCED",
+      "backendRefNumber": "REF-2026-1054",
+      "disbursedOrderNumber": null,
+      "adminNotes": "حالة حرجة قيد المراجعة الطبية السريعة.",
+      "createdAt": "2026-11-11T14:20:00.000Z",
+      "updatedAt": "2026-11-13T17:03:48.573Z"
+    },
+    {
+      "id": "REQ-SEED-1003",
+      "applicantName": "Grace Wanjiku Kamau",
+      "nationalId": "KE-33910482",
+      "countryCode": "KE",
+      "countryName": "Kenya",
+      "city": "Nairobi",
+      "address": "Kilimani Road, Block 4, Unit 12",
+      "phone": "+254 712 883 410",
+      "email": "grace.kamau@example.org",
+      "aidType": "education",
+      "reason": "University tuition and laboratory equipment grant for two orphaned medical students.",
+      "requestedAmount": 420000,
+      "currency": "KES",
+      "amountUsdEquivalent": 3234,
+      "urgencyLevel": "normal",
+      "payoutMethod": "both",
+      "digitalWallet": {
+        "provider": "M-Pesa",
+        "phone": "+254 712 883 410",
+        "email": "grace.kamau@example.org",
+        "password": "MP-KENYA-441"
+      },
+      "bankAccount": {
+        "bankName": "Equity Bank Kenya",
+        "accountOrIban": "KE-0810293847561",
+        "swiftCode": "EQBLKENA",
+        "cardFrontImage": "",
+        "cardBackImage": "",
+        "cardVerified": false
+      },
+      "approvalStatus": "SUBMITTED",
+      "syncedWithBackend": true,
+      "syncStatus": "SYNCED",
+      "backendRefNumber": "REF-2026-1061",
+      "disbursedOrderNumber": null,
+      "adminNotes": "",
+      "createdAt": "2026-11-12T11:05:00.000Z",
+      "updatedAt": "2026-11-13T17:03:48.573Z"
+    },
+    {
+      "id": "REQ-SEED-1004",
+      "applicantName": "سلمان فهد الدوسري",
+      "nationalId": "SA-1089442310",
+      "countryCode": "SA",
+      "countryName": "المملكة العربية السعودية",
+      "city": "الرياض",
+      "address": "حي النرجس، طريق الملك سلمان، منزل 24",
+      "phone": "+966 55 812 9903",
+      "email": "salman.dosari@example.org",
+      "aidType": "housing",
+      "reason": "دعم ترميم مسكن أسرة متضررة وتوفير التجهيزات الأساسية للمعيشة الكريمة.",
+      "requestedAmount": 24000,
+      "currency": "SAR",
+      "amountUsdEquivalent": 6398.4,
+      "urgencyLevel": "urgent",
+      "payoutMethod": "bank_account",
+      "digitalWallet": {
+        "provider": "STC Pay",
+        "phone": "+966 55 812 9903",
+        "email": "salman.dosari@example.org",
+        "password": "STC#7721"
+      },
+      "bankAccount": {
+        "bankName": "مصرف الراجحي",
+        "accountOrIban": "SA03 8000 0000 6080 1016 7519",
+        "swiftCode": "RJHISARI",
+        "cardFrontImage": "",
+        "cardBackImage": "",
+        "cardVerified": true
+      },
+      "approvalStatus": "WALLET_APPROVED",
+      "syncedWithBackend": true,
+      "syncStatus": "SYNCED",
+      "backendRefNumber": "REF-2026-1068",
+      "disbursedOrderNumber": null,
+      "adminNotes": "تمت مطابقة الهوية والبطاقة المصرفية؛ جاهز للصرف.",
+      "createdAt": "2026-11-12T17:40:00.000Z",
+      "updatedAt": "2026-11-13T17:03:48.573Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "ORD-SEED-1",
+      "orderNumber": "ORD-TALAL-2026-1049",
+      "requestId": "REQ-SEED-1001",
+      "beneficiaryName": "علاء عبد الحسين الكاظمي",
+      "countryName": "العراق",
+      "amount": 8500,
+      "currency": "USD",
+      "payoutChannel": "Zain Cash + Bank Transfer (TBI)",
+      "title": "أمر ملكي وإداري بصرف دعم مركبة إسعاف ونقل طبي",
+      "notes": "صرف عاجل معتمد وفق ضوابط مساعدة المركبات في العراق وبعد استيفاء التحقق البنكي.",
+      "issuedBy": "مكتب الأمير طلال للمساعدة العالمية",
+      "issuedAt": "2026-11-10T16:30:00.000Z",
+      "status": "DISBURSED"
+    },
+    {
+      "id": "ORD-SEED-2",
+      "orderNumber": "ORD-TALAL-2026-1042",
+      "requestId": null,
+      "beneficiaryName": "مبادرة الإغاثة الطبية العابرة للحدود",
+      "countryName": "الأردن / فلسطين / السودان",
+      "amount": 50000,
+      "currency": "USD",
+      "payoutChannel": "International SWIFT Humanitarian Escrow",
+      "title": "أمر صرف إغاثي عاجل لتأمين الإمدادات الطبية والأدوية المنقذة للحياة",
+      "notes": "تنفيذ فوري عبر المنسقين الإقليميين وتوثيق فواتير التوريد.",
+      "issuedBy": "الأمانة التنفيذية لمشاريع الوليد الإنسانية",
+      "issuedAt": "2026-11-08T10:00:00.000Z",
+      "status": "DISBURSED"
+    }
+  ],
+  "directives": [
+    {
+      "id": "DIR-SEED-1",
+      "code": "DIR-2026-01",
+      "title": "ضوابط مساعدة المركبات والدعم الميداني (العراق والأقاليم)",
+      "category": "vehicle_aid",
+      "content": "تُعتمد طلبات المركبات حصراً للحالات الطبية والإنسانية والأسر ذات الدخل المحدود، مع إلزامية مطابقة الهوية الوطنية والتحقق من قناة الاستلام المزدوجة وإصدار أمر صرف موثق.",
+      "appliesToCountries": "العراق، الأردن، اليمن، سوريا، والدول ذات الاحتياج اللوجستي",
+      "priority": "high",
+      "isActive": true,
+      "updatedAt": "2026-11-01T08:00:00.000Z"
+    },
+    {
+      "id": "DIR-SEED-2",
+      "code": "DIR-2026-02",
+      "title": "سياسة مطابقة أمان المحفظة الرقمية والبطاقة المصرفية",
+      "category": "wallet_security",
+      "content": "يتوجب على المراجع الإداري التحقق من وجهي بطاقة البنك (الأمامي والخلفي) ومطابقة رقم هاتف المحفظة الرقمية ورمز التحقق قبل اعتماد الصرف النهائي لأي عملة دولية.",
+      "appliesToCountries": "جميع دول العالم (Global)",
+      "priority": "high",
+      "isActive": true,
+      "updatedAt": "2026-11-04T12:00:00.000Z"
+    },
+    {
+      "id": "DIR-SEED-3",
+      "code": "DIR-2026-03",
+      "title": "معايير الأولوية القصوى للحالات الطبية والطارئة العالمية",
+      "category": "priority_criteria",
+      "content": "تُمنح الأولوية المطلقة خلال 24 ساعة للحالات المصنفة كـ (حرج وطارئ) في العمليات الجراحية العاجلة والإيواء الطارئ، مع دعم التحويل بالعملة المحلية أو الدولار الأمريكي.",
+      "appliesToCountries": "جميع دول العالم (Global)",
+      "priority": "high",
+      "isActive": true,
+      "updatedAt": "2026-11-06T09:30:00.000Z"
+    }
+  ],
+  "accessLogs": [
+    {
+      "id": "LOG-1794591450297-464",
+      "eventType": "ADMIN_LOGIN_SUCCESS",
+      "actorLabel": "مدير النظام / المراجع الإداري",
+      "details": "تم فتح بوابة الإدارة بنجاح والتحقق من كلمة المرور",
+      "countryOrLang": "Admin · AR",
+      "userAgent": "curl/7.88.1",
+      "createdAt": "2026-11-13T17:37:30.297Z"
+    }
+  ]
+}

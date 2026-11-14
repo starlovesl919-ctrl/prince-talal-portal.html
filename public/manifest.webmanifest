@@ -1,0 +1,23 @@
+{
+  "name": "مكتب الأمير طلال للمساعدة العالمية | Prince Talal Global Aid Office",
+  "short_name": "مكتب الأمير طلال",
+  "description": "Global humanitarian assistance portal and administrative review system for Al-Waleed New Humanitarian Projects.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FBF9F5",
+  "theme_color": "#064E3B",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/app-icon.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Remix  Prince Talal Assistance Office",
+  "description": "Manage aid requests, administrative orders, and executive directives with a secure local database and sync system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
